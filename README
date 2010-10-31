@@ -1,0 +1,3 @@
+To configure the game, edit the <HOST> in index.php on line 26 and edit <webSocket> on line 101 in server.php to match.
+
+To run the server, run 'php -q server.php' from the command line.
